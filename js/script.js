@@ -1,4 +1,5 @@
 alert("Hello! Animasaun Oluwatobiloba says WELCOME")
+alert(" Please view in Desktop mode for maximum experience. Thanks")
 
 var i=0; var images=[]; var time = 2000;
 		
